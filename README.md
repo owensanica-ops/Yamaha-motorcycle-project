@@ -16,6 +16,7 @@ I decided that the motorcycle was going to be hydrogen fueled and had to take in
 
 Doing some research, I found that MIT (Massachusetts Institute of Technology) actually made a hydrogen fueled motorcycle as a project so during this project I will be referencing from that same project. 
 
+
 # 9/19/2026 Progress
 ### This will display the materials that will be used and the funding for the motorcycle.
-
+I looked up how to make a DIY hydrogen fueled motorcycle.
